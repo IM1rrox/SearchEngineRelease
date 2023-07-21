@@ -1,0 +1,21 @@
+# ninja log v5
+3003	3098	7113630695323358	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f586ce1723073b5a
+0	104	7113630665385040	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	eecd00b1304764ae
+2706	2802	7113630692353369	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	d4e3f057f4398833
+2706	2802	7113630692353369	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	d4e3f057f4398833
+0	104	7113630665385040	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	eecd00b1304764ae
+2802	2904	7113630693393364	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	2153ace2c84bc965
+2802	2904	7113630693393364	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	2153ace2c84bc965
+105	2705	7113630691403380	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d277737cfa327b3a
+105	2705	7113630691403380	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	d277737cfa327b3a
+2904	3002	7113630694373360	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2999c8bba3c0dce2
+3318	3458	7113630698913359	CMakeFiles/googletest-populate-complete	ff054a0eff28144
+2904	3002	7113630694373360	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2999c8bba3c0dce2
+3003	3098	7113630695323358	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	f586ce1723073b5a
+3098	3211	7113630696433365	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1911b1d3b384d4d2
+3098	3211	7113630696433365	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	1911b1d3b384d4d2
+3212	3318	7113630697523370	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	bf05d81542dae50f
+3212	3318	7113630697523370	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	bf05d81542dae50f
+3318	3458	7113630698913359	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ff054a0eff28144
+3318	3458	7113630698913359	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	ff054a0eff28144
+3318	3458	7113630698913359	D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ff054a0eff28144

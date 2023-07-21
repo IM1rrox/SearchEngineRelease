@@ -1,0 +1,5 @@
+"D:\Program Files\CLion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" "-DCMAKE_MAKE_PROGRAM=D:/Program Files/CLion/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S "D:\forWork\projects\C++ - Standart\SearchEngine\Search_Engine" -B "D:\forWork\projects\C++ - Standart\SearchEngine\Search_Engine\cmake-build-default-mingw"
+-- Using the multi-header code from D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/nlohmann_json/include/
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/forWork/projects/C++ - Standart/SearchEngine/Search_Engine/cmake-build-default-mingw
